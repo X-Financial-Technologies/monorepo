@@ -1,4 +1,4 @@
-# USDX Flows - v2
+## USDX Flows - v2
 
 1. [KYC and Account Setup](kyc.mermaid)
 2. [Multi-Currency Deposit and Minting](multi-currency-deposit.mermaid)
