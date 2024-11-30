@@ -1,0 +1,8 @@
+sequenceDiagram
+    Custodian->>Fund Manager: Report accrued yield
+    Fund Manager->>Fund Manager: Calculate rebase amount
+    Fund Manager->>Oracle: Submit rebase data
+    Oracle->>USDX Contract: Trigger rebase
+    USDX Contract->>USDX Contract: Update total supply
+    USDX Contract->>User Wallets: Adjust token balances
+    USDX Contract->>Transfer Agent: Log rebase event
