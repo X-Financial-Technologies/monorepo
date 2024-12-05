@@ -190,9 +190,9 @@ All fees associated with the use of public blockchain networks will be the respo
 
 The Fund's distributions are generally taxable to you as ordinary income. It is not anticipated that the Fund will be available to tax-deferred investors.
 
-[Go to Top](#summary-prospectus)
-
 ---
+
+[Go to Top](#summary-prospectus)
 
 **X Capital Management, LLC**  
 903 Love Drive  
