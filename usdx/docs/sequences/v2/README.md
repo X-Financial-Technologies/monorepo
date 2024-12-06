@@ -5,3 +5,5 @@
 3. [Purchasing Underlying Treasuries](basket.mermaid)
 4. [Yield Distribution](yield.mermaid)
 5. [USDX Rebasing](yield.mermaid)
+
+
