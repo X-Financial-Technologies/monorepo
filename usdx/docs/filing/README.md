@@ -26,8 +26,8 @@ To comply with regulations, XFT will file the following with the SEC:
 
 ## Resources
 
-- [SEC Filing Types](https://sec-edgar.github.io/sec-edgar/filingtypes.html)
 - [XFT Summary Prospectus](https://xft-summary-prospectus.netlify.app/)
+- [SEC Filing Types](https://sec-edgar.github.io/sec-edgar/filingtypes.html)
 - [Arca (CIK=0001758583) Landing](https://www.sec.gov/edgar/browse/?CIK=0001758583)
 - [FRANKLIN TEMPLETON TRUST (CIK=0001786958) Landing](https://www.sec.gov/edgar/browse/?CIK=0001786958)
 
